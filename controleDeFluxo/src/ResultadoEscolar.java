@@ -12,5 +12,8 @@ public class ResultadoEscolar {
         System.out.println("Reprovado");
     }
 
+
+    // String resultado = nota >=7 ? "Aprovado" : nota >=5 && nota <7 ? "recuperação" : "Reprovado"; -- CONDIÇÕES TERNARIA 
+    // System.out.println(resutaldo);  
  }
 }
