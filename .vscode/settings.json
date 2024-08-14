@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "meuprograma/src",
         "exemplos-pacotes/src",
-        "Escola/src"
+        "Escola/src",
+        "ArraysMatriz/src"
     ]
 }
